@@ -9,7 +9,7 @@ Features :
   - Minimal UI Design: Simple, easy-to-use interface focusing on the essentials of browsing.
 
 Screenshots
-![""]([images/screenshot.png](https://github.com/abhi763153/Voyager3/blob/9f30dbe4df79bb82a545d7090f3ce1454eb85bac/Voyager3.png))
+![]([images/screenshot.png](https://github.com/abhi763153/Voyager3/blob/9f30dbe4df79bb82a545d7090f3ce1454eb85bac/Voyager3.png))
 
 
 
