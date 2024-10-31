@@ -42,15 +42,15 @@ The project is built using JavaFX's WebView and WebEngine classes to display and
  - Address Bar: Enter URLs here to load new pages.
  - Navigation Buttons: Buttons for "Back," "Forward," "Reload," and "Home."
  - Status Bar: Displays the current URL and page load status.
- - 
+   
 Technologies Used
  - JavaFX: For building the user interface.
  - Maven: For dependency management.
- - 
+   
 Future Improvements
  - Bookmark Management: Save and organize favorite sites.
  - History Tracking: Keep a history of visited pages.
  - Tab Functionality: Multi-tab browsing experience.
- - 
+   
 Contributing
 Contributions are welcome! Please open an issue to discuss improvements or new features before submitting a pull request.
