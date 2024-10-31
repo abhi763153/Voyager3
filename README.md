@@ -2,23 +2,26 @@
 
 A lightweight web browser built using JavaFX, with a clean and simple UI that allows users to browse the web. This project demonstrates the use of WebView and WebEngine components in JavaFX, as well as basic web navigation controls like back, forward, reload, and home.
 
-Features
-Basic Web Navigation: Navigate to any URL, including support for back, forward, and reload buttons.
-Home Page Setting: Default homepage with easy redirection to home.
-Responsive Address Bar: Input URLs directly and see them update dynamically as you navigate.
-Minimal UI Design: Simple, easy-to-use interface focusing on the essentials of browsing.
+Features : 
+  - Basic Web Navigation: Navigate to any URL, including support for back, forward, and reload buttons.
+  - Home Page Setting: Default homepage with easy redirection to home.
+  - Responsive Address Bar: Input URLs directly and see them update dynamically as you navigate.
+  - Minimal UI Design: Simple, easy-to-use interface focusing on the essentials of browsing.
 Screenshots
-(Add screenshots here to showcase the UI)
+
+
 
 Getting Started
-Prerequisites
+
+Prerequisites :
 Java Development Kit (JDK): Ensure that JDK 17 or higher is installed.
 JavaFX SDK: JavaFX libraries for running JavaFX applications.
+
 Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/abhi76315314/Voyager3.git
 Open the project in your IDE (e.g., IntelliJ IDEA).
 Ensure all JavaFX dependencies are correctly configured (see pom.xml if using Maven).
 Running the Application
